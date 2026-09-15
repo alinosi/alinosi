@@ -38,13 +38,15 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 ![pwntools](https://img.shields.io/badge/pwntools-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLMap](https://img.shields.io/badge/SQLMap-%23323330.svg?style=for-the-badge&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Network Engineering
 ![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 ### Backend and Web Development
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Postgre]("https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white")
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -55,9 +57,9 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 ### Development Tools
 
 ![WSL2](https://img.shields.io/badge/WSL2-2C2D72?style=for-the-badge&logo=linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-WSL-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postgre]("https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white")
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Featured Project

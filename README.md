@@ -3,18 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alinosi">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-alinosi-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-  </a>
-  <a href="mailto:mthoriqulfadli@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
-  </a>
-  <a href="https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b">
-    <img alt="Hack The Box profile" src="https://img.shields.io/badge/Hack_The_Box-Profile-%23111927.svg?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=%239FEF00">
-  </a>
-  <a href="https://learn.cylabacademy.org/users/ellian">
-    <img alt="CyLab Academy profile" src="https://img.shields.io/badge/CyLab_Academy-Profile-%230A66C2.svg?style=for-the-badge&amp;logoColor=white">
-  </a>
+  <a href="https://github.com/alinosi"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-alinosi-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="mailto:mthoriqulfadli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-238636?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b"><img alt="Hack The Box profile" src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00"></a>
+  <a href="https://learn.cylabacademy.org/users/ellian"><img alt="CyLab Academy profile" src="https://img.shields.io/badge/CyLab_Academy-Profile-161B22?style=for-the-badge"></a>
 </p>
 
 ## About Me
@@ -52,6 +44,7 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Postgre]("https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white")
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -61,10 +54,11 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-2C2D72?style=for-the-badge&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-WSL-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postgre]("https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white")
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kali Linux WSL](https://img.shields.io/badge/Kali_Linux-WSL-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## Featured Project
 
@@ -82,8 +76,8 @@ Issued 20 May 2026 · Valid until 20 May 2029 · Credential ID `2605NA3421`
 ## 📈 GitHub Stats and Metrics
 
 <p align="center">
-  <img alt="alinosi GitHub statistics" src="https://ghstats.dev/api/card?username=alinosi&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488;v=2" width="48%">
-  <img alt="Most used languages in public repositories" src="https://ghstats.dev/api/langs?username=alinosi&amp;layout=grid&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488;v=2" width="48%">
+  <img alt="alinosi GitHub statistics" src="https://ghstats.dev/api/card?username=alinosi&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488" width="48%">
+  <img alt="Most used languages in public repositories" src="https://ghstats.dev/api/langs?username=alinosi&amp;layout=grid&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488" width="48%">
 </p>
 
 <p align="center">

@@ -24,7 +24,7 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 
 | Platform | Current Focus |
 |:--:|:--|
-| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Information gathering, web security, network penetration, exploitation, and Linux privilege escalation |
+| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Information gathering, web security, exploitation, and Linux privilege escalation |
 | [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | 80+ completed CTF challenges |
 
 ## Technical Skills
@@ -34,8 +34,12 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=58A6FF)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2A6DB2)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logoColor=F0F6FC)
+![pwntools](https://img.shields.io/badge/pwntools-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
 ![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF)
 ![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=flat-square&logo=gnu-bash&logoColor=F0F6FC)
+
+### Network Engineering
 ![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-0D1117?style=flat-square&logo=mikrotik&logoColor=F0F6FC)
 
 ### Backend and Web Development
@@ -54,6 +58,7 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0F6FC)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Kali Linux WSL](https://img.shields.io/badge/Kali_Linux-WSL-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
 
 ## Featured Project
 

@@ -82,8 +82,8 @@ Issued 20 May 2026 · Valid until 20 May 2029 · Credential ID `2605NA3421`
 ## 📈 GitHub Stats and Metrics
 
 <p align="center">
-  <img alt="alinosi GitHub statistics" src="https://ghstats.dev/api/card?username=alinosi&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488" width="48%">
-  <img alt="Most used languages in public repositories" src="https://ghstats.dev/api/langs?username=alinosi&amp;layout=grid&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488" width="48%">
+  <img alt="alinosi GitHub statistics" src="https://ghstats.dev/api/card?username=alinosi&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488;v=2" width="48%">
+  <img alt="Most used languages in public repositories" src="https://ghstats.dev/api/langs?username=alinosi&amp;layout=grid&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488;v=2" width="48%">
 </p>
 
 <p align="center">

@@ -31,39 +31,37 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 
 ### Cybersecurity
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=58A6FF)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2A6DB2)
-![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logoColor=F0F6FC)
-![pwntools](https://img.shields.io/badge/pwntools-0D1117?style=flat-square&logo=python&logoColor=FFD43B)
-![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF)
-![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=flat-square&logo=gnu-bash&logoColor=F0F6FC)
-
-### Network Engineering
-![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-0D1117?style=flat-square&logo=mikrotik&logoColor=F0F6FC)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%234682B4.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-%23C62828.svg?style=for-the-badge&logoColor=white)
+![pwntools](https://img.shields.io/badge/pwntools-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLMap](https://img.shields.io/badge/SQLMap-%23323330.svg?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 ### Backend and Web Development
 
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css&logoColor=663399)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0F6FC)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Kali Linux WSL](https://img.shields.io/badge/Kali_Linux-WSL-0D1117?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux WSL](https://img.shields.io/badge/Kali_Linux-WSL-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## Featured Project
 
 <p align="center">
-  <a href="https://github.com/alinosi/Sifest2024"><img alt="SIFEST 2024 repository" src="https://github-readme-stats.vercel.app/api/pin/?username=alinosi&amp;repo=Sifest2024&amp;theme=github_dark&amp;hide_border=true&amp;title_color=3FB950&amp;icon_color=58A6FF"></a>
+  <a href="https://github.com/alinosi/Sifest2024"><img alt="SIFEST 2024 repository" src="https://img.shields.io/badge/SIFEST_2024-View_Repository-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
 </p>
 
 ## Certification
@@ -73,15 +71,17 @@ I am an Information Systems student focused on cybersecurity, with backend devel
 **MikroTik Certified Network Associate**  
 Issued 20 May 2026 · Valid until 20 May 2029 · Credential ID `2605NA3421`
 
-## GitHub Activity
+## 📈 GitHub Stats and Metrics
 
 <p align="center">
-  <img height="165" alt="alinosi GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=alinosi&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github">
-  <img height="165" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinosi&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true">
+  <img alt="alinosi GitHub statistics" src="https://ghstats.dev/api/card?username=alinosi&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488" width="48%">
+  <img alt="Most used languages in public repositories" src="https://ghstats.dev/api/langs?username=alinosi&amp;layout=grid&amp;bg=030712&amp;title_color=10B981&amp;text=94A3B8&amp;icon_color=34D399&amp;border_color=0D9488" width="48%">
 </p>
 
 <p align="center">
-  <img width="100%" alt="alinosi contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alinosi&amp;theme=github-compact&amp;hide_border=true&amp;area=true">
+  <a href="https://github.com/alinosi">
+    <img alt="alinosi GitHub streak" src="https://streak-stats.demolab.com?user=alinosi&amp;theme=dark&amp;background=030712&amp;stroke=0D9488&amp;ring=10B981&amp;fire=34D399&amp;currStreakNum=10B981&amp;currStreakLabel=94A3B8&amp;sideNums=94A3B8&amp;sideLabels=94A3B8&amp;dates=6B7280">
+  </a>
 </p>
 
 <p align="center"><i>Learning one system, one vulnerability, and one fix at a time.</i></p>

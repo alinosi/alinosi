@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am an Big Larper.
+I am a Big Larper.
 
 - Exploring snezhnaya.
 - Build PCs powered by RTX 2025 seccondary.
@@ -24,10 +24,9 @@ I am an Big Larper.
 | [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | anonymous cool Wallpaper and hacking quotes content on tiktok |
 | [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | Completed all challanges with AI of course |
 
-## Technical Skills (I hope)
+## Technical Skills (chatgpt told me to include this)
 
 ### Cybersecurity
-
 
 ![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -38,7 +37,6 @@ I am an Big Larper.
 ![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 ### Backend and Web Development
-
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -50,7 +48,6 @@ I am an Big Larper.
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Development Tools
-
 ![WSL2](https://img.shields.io/badge/WSL2-2C2D72?style=for-the-badge&logo=linux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />

@@ -28,14 +28,11 @@ I am an Big Larper.
 
 ### Cybersecurity
 
-![Parrot OS](https://simpleicons.org)](https://github.com/ParrotSec)
+
+![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%234682B4.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-%23C62828.svg?style=for-the-badge&logoColor=white)
 ![pwntools](https://img.shields.io/badge/pwntools-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLMap](https://img.shields.io/badge/SQLMap-%23323330.svg?style=for-the-badge&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Network Engineering
 ![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
@@ -64,13 +61,6 @@ I am an Big Larper.
 <p align="center">
   <a href="https://github.com/alinosi/Sifest2024"><img alt="SIFEST 2024 repository" src="https://img.shields.io/badge/SIFEST_2024-View_Repository-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
 </p>
-
-## Certification
-
-[![MTCNA](https://img.shields.io/badge/MTCNA-Certified-238636?style=for-the-badge&logo=mikrotik&logoColor=white)](https://mikrotik.com/training/certificates/c723421cc6133090d81a)
-
-**MikroTik Certified Network Associate**  
-Issued 20 May 2026 · Valid until 20 May 2029 · Credential ID `2605NA3421`
 
 ## 📈 GitHub Stats and Metrics
 

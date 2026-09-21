@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="nobynobygon cybersecurity and backend development banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:161B22,100:238636&amp;height=190&amp;section=header&amp;text=nobynobygon&amp;fontSize=42&amp;fontColor=F0F6FC&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Larpgod;descAlignY=57&amp;descSize=17">
+  <img width="100%" alt="nobynobygon cybersecurity and backend development banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:161B22,100:238636&amp;height=190&amp;section=header&amp;text=nobynobygon&amp;fontSize=42&amp;fontColor=F0F6FC&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Larpgod&amp;descSize=17">
 </p>
 
 <p align="center">
@@ -13,25 +13,22 @@
 
 I am an Big Larper.
 
-- Exploring web application security, vulnerability assessment, and penetration testing workflows.
-- Completed more than 80 CTF challenges on CyLab Academy and continue learning through Hack The Box.
-- MTCNA-certified, with experience delivering in-person RouterOS training to 40 participants.
-- Contributed to an authorized web application penetration test and its professional security report.
+- Exploring web application security, network security, vulnerability assessment, and penetration testing workflows.
 - Build backend-focused applications using Laravel and MySQL, including automated payment workflows.
-- Reach me at [mthoriqulfadli@gmail.com](mailto:mthoriqulfadli@gmail.com).
+- Reach me at my home.
 
 ## Security Learning
 
 | Platform | Current Focus |
 |:--:|:--|
-| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Information gathering, web security, exploitation, and Linux privilege escalation |
-| [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | 80+ completed CTF challenges |
+| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Kali linux cool Wallpaper and hacking quotes content on tiktok |
+| [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | Completed all challanges with AI of course |
 
-## Technical Skills
+## Technical Skills (I hope)
 
 ### Cybersecurity
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+[![Parrot OS](https://simpleicons.org)](https://github.com/ParrotSec)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%234682B4.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="nobynobygon cybersecurity and backend development banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:161B22,100:238636&amp;height=190&amp;section=header&amp;text=nobynobygon&amp;fontSize=42&amp;fontColor=F0F6FC&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Cybersecurity%20Learner%20%7C%20Backend%20Developer&amp;descAlignY=57&amp;descSize=17">
+  <img width="100%" alt="nobynobygon cybersecurity and backend development banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,45:161B22,100:238636&amp;height=190&amp;section=header&amp;text=nobynobygon&amp;fontSize=42&amp;fontColor=F0F6FC&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Larpgod;descAlignY=57&amp;descSize=17">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am an Information Systems student focused on cybersecurity, with backend development as a supporting discipline. I learn offensive security through hands-on labs and CTF challenges, while applying secure development principles to the web applications I build.
+I am an Big Larper.
 
 - Exploring web application security, vulnerability assessment, and penetration testing workflows.
 - Completed more than 80 CTF challenges on CyLab Academy and continue learning through Hack The Box.

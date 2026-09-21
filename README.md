@@ -20,8 +20,8 @@ I am a Big Larper.
 
 | Platform | Current Focus |
 |:--:|:--|
-| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | anonymous cool Wallpaper and hacking quotes content on tiktok |
-| [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | Completed all challanges with AI of course |
+| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Anonymous cool wallpaper and hacking quotes content on tiktok |
+| [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | Completing all challanges with AI of course |
 
 ## Technical Skills (chatgpt told me to include this)
 

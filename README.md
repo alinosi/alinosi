@@ -28,7 +28,7 @@ I am an Big Larper.
 
 ### Cybersecurity
 
-[![Parrot OS](https://simpleicons.org)](https://github.com/ParrotSec)
+![Parrot OS](https://simpleicons.org)](https://github.com/ParrotSec)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%234682B4.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)

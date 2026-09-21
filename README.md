@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/alinosi"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-alinosi-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
-  <a href="mailto:mthoriqulfadli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-238636?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="mailto:cristianorolonaldolana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-238636?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
   <a href="https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b"><img alt="Hack The Box profile" src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00"></a>
   <a href="https://learn.cylabacademy.org/users/ellian"><img alt="CyLab Academy profile" src="https://img.shields.io/badge/CyLab_Academy-Profile-161B22?style=for-the-badge"></a>
 </p>

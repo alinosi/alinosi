@@ -13,15 +13,15 @@
 
 I am an Big Larper.
 
-- Exploring web application security, network security, vulnerability assessment, and penetration testing workflows.
-- Build backend-focused applications using Laravel and MySQL, including automated payment workflows.
+- Exploring snezhnaya.
+- Build PCs powered by RTX 2025 seccondary.
 - Reach me at my home.
 
-## Security Learning
+## Learning
 
 | Platform | Current Focus |
 |:--:|:--|
-| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Kali linux cool Wallpaper and hacking quotes content on tiktok |
+| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | anonymous cool Wallpaper and hacking quotes content on tiktok |
 | [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | Completed all challanges with AI of course |
 
 ## Technical Skills (I hope)
@@ -75,4 +75,4 @@ I am an Big Larper.
   </a>
 </p>
 
-<p align="center"><i>Learning one system, one vulnerability, and one fix at a time.</i></p>
+<p align="center"><i>Learning none, Understand none, and one prompt every time.</i></p>

@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/alinosi"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-alinosi-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
   <a href="mailto:cristianorolonaldolana@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-238636?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
-  <a href="https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b"><img alt="Hack The Box profile" src="https://img.shields.io/badge/Hack_The_Box-Profile-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00"></a>
+  <a href="youtube.com"><img alt="Hack The Box profile" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ## About Me
@@ -20,17 +20,15 @@ I am a Big Larper.
 
 | Platform | Current Focus |
 |:--:|:--|
-| [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a00d69-8222-726d-b0ef-393aee552e4b) | Anonymous cool wallpaper and hacking quotes content on tiktok |
-| [![CyLab Academy](https://img.shields.io/badge/CyLab_Academy-161B22?style=flat-square)](https://learn.cylabacademy.org/users/ellian) | Completing all challanges with AI of course |
+| [![V1ROS2RtSnRSbk5hUnpseFpGZEdjMWxYTlhka1YzaDZXVkU5UFE9PQ==](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/robots.txt) | Anonymous cool wallpaper and hacking quotes content |
+| [![VjFST1MyUnRTblJTYms1aFVucHNlRnBHWkVkak1XeFlUbGhrYTFZemFEWlhWa1U1VUZFOVBRPT0=](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://otakudesu.org) | Completing all anime |
 
-## Technical Skills (chatgpt told me to include this)
+## Technical Skills 
 
-### Cybersecurity
+### 
 
 ![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat&logo=facebook&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-![pwntools](https://img.shields.io/badge/pwntools-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Network Engineering
 ![MikroTik RouterOS](https://img.shields.io/badge/MikroTik_RouterOS-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
@@ -38,18 +36,9 @@ I am a Big Larper.
 ### Backend and Web Development
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Development Tools
-![WSL2](https://img.shields.io/badge/WSL2-2C2D72?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Featured Project
